@@ -81,11 +81,11 @@ println(bigNum.toHangul()) // 일억
 
 ## ⚙️ 상세 구조
 
-KHangul은 한글 유니코드 조합 원리(
+KHangul은 한글 유니코드 조합 원리
 
 $$가 = START + (Chosung \times 588) + (Jungsung \times 28) + Jongsung$$
 
-)를 기반으로 설계되어 정확하고 빠릅니다.
+를 기반으로 설계되어 정확하고 빠릅니다.
 
 * **Unicode Range**: `0xAC00` ~ `0xD7A3`
 * **Normalization**: `KHangulFormatter.normalize()`를 통해 조합형/완성형 텍스트를 안정적으로 처리합니다.
