@@ -40,7 +40,7 @@ repositories {
 }
 
 dependencies {
-    implementation("com.github.mrjimin:KHangul:1.0.0")
+    implementation("com.github.mrjimin:KHangul:1.1.0")
 }
 ```
 
