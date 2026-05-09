@@ -2,7 +2,7 @@
 
 [![](https://jitpack.io/v/mrjimin/KHangul.svg)](https://jitpack.io/#mrjimin/KHangul)
 [![GitHub License](https://img.shields.io/github/license/mrjimin/KHangul?style=flat-square)](LICENSE)
-[![Kotlin](https://img.shields.io/badge/kotlin-2.3.20-blue.svg?logo=kotlin)](http://kotlinlang.org)
+[![Kotlin](https://img.shields.io/badge/kotlin-2.3.21-blue.svg?logo=kotlin)](http://kotlinlang.org)
 
 자모 분해, 초성·영타 매칭, 조사 자동 선택을 지원하는 가장 직관적인 Kotlin 한글 유틸리티
 
